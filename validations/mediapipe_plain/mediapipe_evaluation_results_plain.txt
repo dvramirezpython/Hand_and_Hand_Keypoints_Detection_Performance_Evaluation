@@ -1,0 +1,17 @@
+====== HAND DETECTION METRICS ======
+Images with multiple hands detected: []
+Images with no hands detected      : ['IMG_00024641.jpg', 'IMG_00025000.jpg', 'IMG_00025870.jpg', 'IMG_00026397.jpg']
+Ground Truth Hands Count           : 500
+MediaPipe Detected Hands           : 496
+Precision                          : 0.9919
+Recall (Sensitivity)               : 0.9840
+F1-Score                           : 0.9880
+Mean Box IoU                       : 1.5189
+mAP50                              : 0.9770
+mAP50-95                           : 0.8258
+
+====== KEYPOINT METRICS (On Correctly Detected Hands) ======
+Mean Absolute Error (MAE)          : 6.91 pixels
+PCK @ 0.05 Threshold               : 94.37%
+Pose mAP50                         : 0.9589
+Pose mAP50-95                      : 0.7841

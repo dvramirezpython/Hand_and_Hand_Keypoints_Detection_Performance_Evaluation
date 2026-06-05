@@ -1,0 +1,14 @@
+dataset/
+DETRPose-main/
+runs/
+.git
+copy_labels.py
+hand_landmarker.task
+hand_landmarker.task1
+hand_landmarker.task2
+rtdetr-l.pt
+yolo11s-pose.pt
+yolo26n.pt
+yolo26s-pose.pt
+yolov8n-pose.pt
+yolov8s-pose.pt
